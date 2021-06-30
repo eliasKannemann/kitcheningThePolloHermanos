@@ -1,8 +1,4 @@
-let elementos = [1, 2, 3, 4, 5];
 
-elementos[3] = elementos[1];
-
-console.log(elementos[3]);
 
 function leer(n){
     let i = 1;
